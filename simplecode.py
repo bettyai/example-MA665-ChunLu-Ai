@@ -7,5 +7,5 @@ Created on Tue Sep 10 12:41:44 2019
 """
 
 def simplecode-betty(x):
-    y = x +1
+    y = x/100 +1
     return y
